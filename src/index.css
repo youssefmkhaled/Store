@@ -1,0 +1,28 @@
+.mainColor {
+    background-color: #802c6e ;
+}
+.cart {
+    font-size:25px;
+}
+.cart span{
+    padding: 0 10px;
+}
+.cart-title {
+    min-height: 90px;
+}
+.card-hover{
+    transition: 0.5s;
+}
+.card-hover:hover {
+    scale: 1.05;
+}
+.added{
+    transition: 0.5s;
+    box-shadow: none;
+}
+.added:hover{
+    color:black !important;
+}
+.pointer {
+    cursor: pointer;
+}
